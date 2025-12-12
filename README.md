@@ -69,7 +69,7 @@ The second part of the project focused on developing a predictive model to class
 ## Certificates
 In addition to practical projects, I have completed the following certification, which strengthened my data analytics skills:
 
-- **[Junior Data Analyst Certificate]**(./Junior_Data_Analyst_Certificate.pdf) (Dec 2025) – Szkoła Biznesu LABA
+- [**Junior Data Analyst Certificate**](./Junior_Data_Analyst_Certificate.pdf) (Dec 2025) – Szkoła Biznesu LABA
 
 ---
 
