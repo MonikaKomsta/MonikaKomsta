@@ -34,22 +34,22 @@ In this section, I list my data analytics projects and briefly describe the tech
 ### Python
 
 #### Loan Default Prediction Model
-*Code:*[Loan Default Prediction Model](./Loan_Default_Prediction_Model.ipynb)
+### Code: [Loan Default Prediction Model](./Loan_Default_Prediction_Model.ipynb)
 
-*Goal*
+### Goal:
 To build a predictive model that determines whether a client will default on a loan using the Berka Dataset. The task involved combining multiple relational tables, performing data analysis, and developing classification models to identify high-risk clients.
 
-*Description*
+### Description:
 This project analyzes a relational banking dataset, including information on customer accounts, transactions, loans, and demographics. The work involved cleaning and integrating multiple tables to create a unified customer profile, followed by exploratory data analysis to identify financial patterns, customer behaviors, and loan characteristics.
 The second part of the project focused on developing a predictive model to classify loans as repaid or defaulted, testing several machine learning algorithms and comparing their performance.
 
-*Skills*
+### Skills:
 Data cleaning and preprocessing, exploratory data analysis (EDA), feature engineering, data modeling and integration, correlation analysis, classification modeling, model evaluation (accuracy, precision, recall, F1, ROC-AUC), data visualization.
 
-*Technology*
+### Technology:
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 
-*Results*
+### Results:
 The analysis showed that loan default is primarily influenced by financial behavior - especially total transaction amounts, average transaction value, and payment patterns. Demographic factors such as age, gender, and region had only minor impact, indicating that spending and repayment habits are far more predictive of default risk.
 
 ---
@@ -57,18 +57,18 @@ The analysis showed that loan default is primarily influenced by financial behav
 ### Power BI
 
 #### Customer Transactions Analysis & Dashboard
-*Code:*[Customer Transactions Analysis & Dashboard](./Customer Transactions Analysis & Dashboard)
+### Code: [Customer Transactions Analysis & Dashboard](./Customer Transactions Analysis & Dashboard.pbix)
 
-*Goal*
+### Goal:
 To explore customer financial behavior and loan patterns using the Berka Dataset and create an interactive Power BI dashboard.
 
-*Description*
+### Description:
 The project analyzes customer accounts, transactions, and loan. Data was first cleaned and transformed in Power Query, and calculated columns and measures were created in DAX to enable meaningful analysis. The dashboard’s interactive elements allow users to explore transaction patterns, loan amounts, debt levels, and customer activity, uncovering key trends and insights that support data-driven decisions.
 
-*Skills*
+### Skills:
 Data cleaning in Power Query, creating calculated columns and measures in DAX, interactive data visualization, dashboard design, filtering, bookmarks, tooltip configuration, customer behavior analysis, business insight generation.
 
-*Technology*
+### Technology:
 Power BI, Power Query, DAX, CSV data.
 
 ---
@@ -82,7 +82,7 @@ Power BI, Power Query, DAX, CSV data.
 ## Certificates
 In addition to practical projects, I have completed the following certification, which strengthened my data analytics skills:
 
-- **Junior Data Analyst Certificate**(./Junior_Data_Analyst_Certificate) (Dec 2025) – LABA – Szkoła Biznesu
+- **Junior Data Analyst Certificate**(./Junior_Data_Analyst_Certificate.pdf) (Dec 2025) – LABA – Szkoła Biznesu
 
 ---
 
