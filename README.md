@@ -9,7 +9,7 @@ I recently completed a Junior Data Analyst training program and earned a certifi
 
 I enjoy working with data, exploring new tools, and continuously developing my skills. Whether working independently or as part of a team, I am motivated by the challenge of transforming complex information into meaningful conclusions and actionable insights.
 
-📄 [Download my CV (PDF)](TO BE ADDED)
+📄 [Download my CV (PDF)](./Monika_Komsta.pdf)
 
 This repository is a place where I showcase my projects, track my progress, and document my learning journey in Data Analytics and Data Science.
 
